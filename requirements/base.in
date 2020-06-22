@@ -1,0 +1,6 @@
+django
+django-rest-framework
+pip-tools
+psycopg2-binary
+toml
+django-cors-headers

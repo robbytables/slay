@@ -1,0 +1,13 @@
+-r base.in  # include base reqs
+black
+flake8
+flake8-bugbear
+flake8-builtins
+flake8-debugger
+flake8-isort
+flake8-print
+flake8-quotes
+isort
+mccabe
+pycodestyle
+pyflakes
